@@ -25,11 +25,9 @@ To build a machine learning model using SVM that predicts the presence of diabet
 - Seaborn
 - Scikit-learn (for SVM and evaluation metrics)
 
-## 🧠 Machine Learning Model
+## 🚀 How to Run
 
-- **Algorithm Used**: Support Vector Machine (SVM)
-- **Kernel**: Linear
-- **Evaluation Metrics**:
-  - Accuracy Score
-  - Confusion Matrix
-  - Classification Report 
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+ 

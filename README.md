@@ -1,4 +1,6 @@
 #  🩺 Diabetes Prediction Using Support Vector Machine (SVM)
+![App Screenshot](Screenshot.png)
+
 
 This project focuses on predicting whether a patient has diabetes based on diagnostic measurements. It uses the Support Vector Machine (SVM) algorithm for classification and provides insights through data visualization and performance evaluation.
 
